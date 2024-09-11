@@ -80,6 +80,5 @@ public class Main{
 		R1.showRefinfo();
 		System.out.println(" ");
 		R2.showRefinfo();
-
 	}
 }
