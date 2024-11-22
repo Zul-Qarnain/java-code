@@ -1,3 +1,5 @@
+// Mid exam question aiub summmer 23-24
+
 class Appliance {
     String brand;
     int warranty;
